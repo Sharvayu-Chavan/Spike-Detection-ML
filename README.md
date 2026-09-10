@@ -1,6 +1,6 @@
 # Spike Detection ML
 
-An interactive, Python-based desktop application for detecting spikes in EEG and Fiber Photometry data. This application implements a machine learning approach combining feature extraction based on the **Dingle Model** (Adam et al.) with **Particle Swarm Optimization (PSO)** to tune classification thresholds through a supervised labeling interface.
+An interactive, Python-based prototype application for detecting spikes in EEG and Fiber Photometry data. This application implements a machine learning approach combining feature extraction based on the **Dingle Model** (Adam et al.) with **Particle Swarm Optimization (PSO)** to tune classification thresholds through a supervised labeling interface.
 
 ## Features
 - **Interactive GUI**: Built with CustomTkinter for a modern, responsive user experience.
