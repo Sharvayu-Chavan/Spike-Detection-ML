@@ -90,3 +90,10 @@ Compared to Deep Learning (like CNNs or LSTMs), the Dingle + PSO approach is hig
 *   `engine.py`: Contains the `DataLoader` for file parsing and the `DingleModel` for mathematical feature extraction ($S_1, S_2, R, D$).
 *   `optimizer.py`: Contains the `PSOOptimizer` class that tunes the classification thresholds based on labeled data.
 *   `requirements.txt`: Python package dependencies.
+
+## References
+
+Adam, A., Shapiai, M. I., Mohd Tumari, M. Z., Mohamad, M., & Mubin, M. (2014).
+Feature Selection and Classifier Parameters Estimation for EEG Signals Peak Detection
+Using Particle Swarm Optimization. *The Scientific World Journal*, 2014, 973063.
+https://doi.org/10.1155/2014/973063
